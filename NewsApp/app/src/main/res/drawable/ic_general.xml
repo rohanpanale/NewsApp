@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Vibrant green -->
+    <path
+        android:fillColor="#4CAF50"
+    android:pathData="M12,2a10,10 0 1,0 10,10A10,10 0 0,0 12,2ZM12,4a8,8 0 0,1 8,8c-0.5,-1.8 -2,-3 -3.5,-4A8,8 0 0,1 12,4ZM4,12a8,8 0 0,1 8,-8c-1.8,0.5 -3,2 -4,3.5A8,8 0 0,1 4,12ZM12,20a8,8 0 0,1 -8,-8c0.5,1.8 2,3 3.5,4A8,8 0 0,1 12,20ZM20,12a8,8 0 0,1 -8,8c1.8,-0.5 3,-2 4,-3.5A8,8 0 0,1 20,12Z" />
+</vector>
